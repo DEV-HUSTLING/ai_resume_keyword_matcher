@@ -19,7 +19,7 @@ python -m spacy download en_core_web_sm
 
 2. ollama pull mistral
 
-## Ussage
+## Usage
 ```
 python main.py
 ```
