@@ -1,0 +1,85 @@
+Anushka Gangidi
+anushkarg99@gmail.com  +1 9295706412  Queens, NY
+
+WORK EXPERIENCE
+Voya 02/2025 – Preset
+Associate Business Analyst
+•	Support and coordinate server migration activities, contributing to planning, execution, and post-migration analysis to ensure seamless system transitions and minimal business disruption.
+•	Research and evaluate emerging AI technologies to identify opportunities for automation and efficiency; assist in developing business cases and presenting recommendations to stakeholders.
+•	Serve as a communication bridge between business and technical teams, gathering requirements, translating them into actionable insights, and ensuring project alignment from initiation to delivery.
+
+Voya 06/2024 – 08/2024
+Frontend Developer Intern
+•	Designed responsive web applications using the Angular framework.
+•	Developed dashboards to monitor clients varied financial transactions and wealth management plans.
+•	Actively participated in Agile design and custom component development discussions.
+•	Collaborated across multiple teams to ensure seamless integration and deployment of new features.
+•	Contributed towards creating components using a long-term support (LTS) based design system for client transaction dashboard
+
+Taiyō 01/2021 – 01/2023
+Lead Frontend Developer
+•	Worked on front-end as well as back-end development of a data analytics tool using react and tailwind
+•	Led the development of a data analytics tool, achieving a 25% reduction in bug reports through
+•	enhanced cross-browser compatibility and streamlined software development phases.
+•	Successfully established and maintained a CI/CD pipeline from Git to production, enabling
+•	rapid deployment in dynamic development settings.
+•	Partnered with the design team to revamp the system design, resulting in custom product-specific
+•	elements that boosted project completion rates by 30% and led to a promotion to Lead Frontend
+•	Developer.
+•	Reviewed code and maintained robust components, ensuring error handling and improving product
+•	quality by 30%.
+•	Gathered business requirements and developed product strategies that addressed customer interests, further enhancing project success.
+•	Developed a RESTful API for a cross-platform application, facilitating seamless data exchange and integration with third-party services, leading to a 25% reduction in bug reports.
+
+EDUCATION
+New York Institute of Technology 					2023 - Present
+MS, Computer Science Manhattan, NY  					GPA: 3.5/4.0
+Malla Reddy Institute of Technology 				2016 - 2020
+B.tech, Computer Science and Engineering Hyd, IND 		GPA: 3/4.0
+
+SKILLS
+Web Development: HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, Angular, TypeScript
+Programming: Python
+Database Technologies: SQL, MongoDB
+Design: AdobeXD, Figma, Adobe Photoshop, Adobe Illustrator
+Others: Docker, Git
+
+ACADEMIC PROJECTS
+Emotion Detection Using Convolutional Neural Networks
+•	Built an Emotion detection system using convolutional neural networks for precise and real-time emotion
+•	analysis.
+•	Implemented data preprocessing pipeline of 35887 image data set and augmentation using
+•	Image Data Generator to generalize the training data. So, it can fit and enhance the model.
+•	Trained CNN sequential model for detection 7 emotions from a frontal face.
+•	Utilized OpenCV to detect and the face and render live video through webcam to detect emotions.
+•	Accomplished seamless integration of model prediction and live video feed.
+•	Optimized the algorithm for a loss rate of 0.1047 and accuracy: 0.9896.
+•	Project demonstrates skills in real time application of deep learning, and neural network.
+
+CERTIFICATON
+Machine Learning Specialization
+•	DeepLearning.AI, Coursera, Stanford CPD, UVM!
+•	Acquired a strong foundation in AI concepts, supervised and unsupervised learning techniques.
+•	Developed practical skills in building machine learning models with tools like NumPy,
+•	scikit- learn, and TensorFlow.
+•	Mastered 3 courses to earn specialization certificate. Courses included, Supervised Machine Learning,
+•	Advanced Learning Algorithms, and Unsupervised Learning, Recommenders, Reinforcement Learning.
+•	Mastered core concepts, linear regression, logistic regression, decision trees, clustering, anomaly
+•	detection, recommender systems.
+•	Developed skills in data preprocessing, feature engineering, model selection, and performance
+•	optimization.
+•	Applied machine learning algorithms to real-world scenarios, enhancing problem-solving abilities.
+
+Python and Django Full Stack Web Development Certification
+Udemy!
+•	Completed 32-hour online training course in Python and Django web development frameworks
+•	Demonstrated proficiency in core Python programming concepts including data structures, functions,
+•	control flow, and object-oriented programming
+•	Gained hands-on experience building dynamic web applications using the Django Python web framework
+•	Learned to design database models, implement CRUD (Create, Read, Update, Delete) functionality, and
+•	integrate web templates
+•	Developed skills in front-end web development using HTML, CSS, and JavaScript to create responsive
+•	user interfaces
+•	Utilized Django's built-in features such as URL routing, forms handling, authentication, and admin panel
+•	Applied software engineering best practices including version control with Git, testing, and deployment
+

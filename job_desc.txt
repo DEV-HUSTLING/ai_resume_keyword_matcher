@@ -1,0 +1,15 @@
+Your qualifications
+
+Education is a plus but real-life experience is even a bigger factor in our decision process:
+
+Minimum of 3 years full-time experience (Personal, freelance or work) with project(s) to back it up.
+At least a Bachelor’s Degree in one of the following areas: Computer Science, or related field.
+You must be fluent and have real-life experience with Javascript (primarily React and/or React Native).
+Understanding of Behaviour Driven Development or Test Driven Development, experience in developing Unit Tests
+Basic to an intermediate working knowledge of PHP/MySQL, experience with popular frameworks is a plus.
+Must be fairly comfortable with hand-coding HTML5 and CSS3
+Familiar with HTML canvas, transitions and SVG is a plus
+Experience with GitHub and NodeJS is required.
+Demonstrable understanding of web site development methodologies/frameworks
+Last but not least: Be hungry to grow with our team and enjoy the ride!
+Taiyo
