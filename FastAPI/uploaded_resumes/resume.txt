@@ -1,0 +1,52 @@
+ PROFESSIONAL SUMMARY :
+   Data Engineer with a strong background in cloud technologies, data warehousing, ETL/ELT, and business intelligence. Proficient in designing and optimizing end-to-end data pipelines for advanced analytics using tools like Azure Data Factory, Databricks, Snowflake, and Apache Airflow. Skilled in working with big data platforms such as Hadoop, Spark, Flink, Presto, and real-time streaming architectures like Apache Kafka, Spark Streaming, and Azure Stream Analytics. Demonstrated experience in managing structured, semi-structured, and unstructured data across cloud and on-premise environments for driving business intelligence and machine learning applications. Strong proficiency in programming languages such as Python, SQL, Scala, Java, C++, and databases like Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Cassandra, HBase, DynamoDB. Proficient in DevOps & CI/CD practices with Jenkins, GitHub, GitLab CI, Docker, Kubernetes, Terraform, Ansible, Bamboo.
+
+   TECHNICAL SKILLS
+   Big Data Technologies: Hadoop, HDFS, Hive, Spark, Airflow, Snowflake, Kafka, MapReduce, Flink, Presto
+   Cloud Platforms: AWS (Glue, Redshift, Lambda, S3, EMR, Athena, EC2, RDS, VPC, IAM, CloudWatch), Azure (ADF, Synapse, Data Lake, Databricks, Cosmos DB, HDInsight, SQL DW), GCP (BigQuery, DataProc, Cloud Functions)
+   Programming Languages: Python, SQL, Scala, Java, C++
+   ETL & Reporting Tools: Apache Airflow, AWS Glue, Talend, Tableau, Power BI, SSIS
+   Databases: Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Cassandra, HBase, DynamoDB
+   DevOps & CI/CD: Jenkins, GitHub, GitLab CI, Docker, Kubernetes, Terraform, Ansible, Bamboo
+   Machine Learning: PySpark, Pandas, NumPy, Scikit-Learn, MLlib, TensorFlow
+   Operating Systems: Linux, UNIX, Windows
+
+   PROFESSIONAL EXPERIENCE :
+
+   Member 1st, PA(Remote)
+   Data Engineer | Sep 2024 – Present (Contract)
+      - Developed custom ETL pipelines using Azure Data Factory, Databricks, and Snowflake for advanced analytics focused on improving business impact.
+      - Utilized real-time streaming architectures like Apache Kafka, Spark Streaming, and Azure Stream Analytics to ensure low-latency event-driven data processing.
+      - Designed and implemented optimized solutions for structured and unstructured data processing in Azure Synapse and ADLS, enhancing pipeline efficiency and reducing operational costs.
+      - Created intelligent data foundation accelerators using Azure Functions and Databricks to streamline data ingestion, transformation, and orchestration processes.
+      - Developed optimized Redshift and Snowflake data models with partitioning and clustering techniques for improved query performance and analytical workloads.
+      - Automated ETL pipeline scheduling and monitoring using Apache Airflow to improve data pipeline reliability and reduce manual intervention.
+   Environment: Azure, Python, Spark, Kafka, Snowflake, SQL Server, ADF, Databricks, Airflow, Power BI, Cosmos DB, PolyBase, Azure Functions
+
+   Nationwide, Columbus, OH(Remote)
+   Data Engineer | Jan 2024 – Aug 2024 (Contract)
+      - Designed and built scalable ETL workflows using AWS Glue and PySpark to ingest, transform, and process massive datasets from various sources.
+      - Implemented real-time data replication from MariaDB and MySQL into Redshift using AWS DMS for ensuring data consistency across environments.
+      - Integrated Amazon Bedrock Gen AI models for intelligent data enrichment, automating form completion and reducing manual data entry efforts.
+      - Developed Lambda-based ingestion frameworks to fetch data from Salesforce and third-party APIs using JWT token-based authentication.
+      - Optimized Redshift stored procedures and workload management strategies to enhance query execution and performance.
+      - Governed AWS Lake Formation policies for managing data security, access control, and compliance with enterprise data governance standards.
+      - Created advanced analytical dashboards using Quick Sight and Redshift Views to help business teams derive meaningful insights from processed data.
+      - Automated AWS Glue and EMR workflow monitoring using Lambda, SNS, and SQS to proactively identify and resolve pipeline failures.
+   Environment: AWS Glue, Redshift, Lambda, S3, EMR, Athena, Python, Snowflake, Tableau, Kinesis, QuickSight, LakeFormation, Iceberg, DynamoDB
+
+   Smartron, India
+   Data Engineer | Feb 2021 – Dec 2022
+      - Developed custom ETL workflows using Azure Data Factory and Databricks for seamless cloud-based data transformations and analytics.
+      - Designed Spark Streaming applications to process real-time Kafka streams, ensuring efficient event processing and alerting mechanisms.
+      - Built a Redshift Spectrum-based query framework for cost-effective analytics on semi-structured and structured data stored in S3.
+      - Automated AWS infrastructure provisioning with Terraform, streamlining resource allocation and reducing setup times.
+      - Developed ML models for predictive analytics using PySpark, improving decision-making and business forecasting accuracy.
+      - Designed and implemented real-time Kinesis-based data ingestion pipelines to ensure low-latency data availability for analytics teams.
+      - Migrated SQL Server data warehouses to Hadoop and implemented optimized Hive and Spark queries for performance improvements.
+      - Automated CI/CD deployment pipelines using Jenkins and GitLab CI to ensure reliable and repeatable infrastructure provisioning.
+   Environment: Azure, Hadoop, Sqoop, Hive, Spark, Python, GCP, BigQuery, Terraform, Kafka, Jenkins, Redshift Spectrum, Kinesis
+
+   Education :
+   Masters: University: Pace university, New York - 2024
+   Bachelors: University: Kodad institute of technology and science, India - 2022
