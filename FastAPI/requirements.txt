@@ -1,4 +1,4 @@
-absl-py==2.2.2
+absl-py==2.3.1
 accelerate==1.7.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.0
@@ -24,7 +24,7 @@ cachetools==5.5.0
 catalogue==2.0.10
 category_encoders==2.8.1
 celery==5.5.2
-certifi==2025.4.26
+certifi==2025.7.14
 cffi==1.17.1
 charset-normalizer==3.4.2
 click==8.1.8
@@ -96,12 +96,12 @@ graphene==3.4.3
 graphql-core==3.2.6
 graphql-relay==3.2.0
 greenlet==3.2.2
-grpcio==1.71.0
+grpcio==1.73.1
 grpcio-status==1.69.0
 gto==1.7.2
 gunicorn==20.1.0
 h11==0.14.0
-h5py==3.13.0
+h5py==3.14.0
 html5lib==1.1
 httpcore==1.0.7
 httplib2==0.22.0
@@ -130,7 +130,7 @@ libclang==18.1.1
 lxml==5.3.0
 Mako==1.3.10
 marisa-trie==1.2.1
-Markdown==3.8
+Markdown==3.8.2
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.3
@@ -143,11 +143,11 @@ msgpack==1.1.0
 multidict==6.4.4
 multitasking==0.0.11
 murmurhash==1.0.13
-namex==0.0.9
+namex==0.1.0
 networkx==3.4.2
 ninja==1.11.1.3
 nltk==3.9.1
-numpy==1.25.0
+numpy==1.26.4
 ollama==0.5.1
 omegaconf==2.3.0
 opencv-python==4.11.0.86
@@ -156,10 +156,10 @@ opentelemetry-api==1.33.1
 opentelemetry-sdk==1.33.1
 opentelemetry-semantic-conventions==0.54b1
 opt_einsum==3.4.0
-optree==0.15.0
+optree==0.16.0
 optuna==4.4.0
 orjson==3.10.18
-packaging==24.2
+packaging==25.0
 pandas==2.2.3
 pathspec==0.12.1
 patsy==1.0.1
@@ -171,7 +171,7 @@ preshed==3.0.10
 prompt_toolkit==3.0.51
 propcache==0.3.1
 proto-plus==1.25.0
-protobuf==5.26.1
+protobuf==4.25.8
 psutil==7.0.0
 pyarrow==19.0.1
 pyasn1==0.6.1
@@ -183,7 +183,7 @@ pydantic_core==2.27.2
 pydot==4.0.0
 pyee==13.0.0
 pygit2==1.18.0
-Pygments==2.19.1
+Pygments==2.19.2
 pygtrie==2.5.0
 PyJWT==2.10.1
 pyparsing==3.2.1
@@ -195,7 +195,7 @@ python-multipart==0.0.20
 pytz==2025.2
 PyYAML==6.0.2
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 rich==14.0.0
 rich-toolkit==0.13.2
 rsa==4.9
@@ -246,10 +246,10 @@ torchvision==0.21.0
 tqdm==4.67.1
 transformers==4.49.0
 typer==0.15.1
-typing_extensions==4.13.2
+typing_extensions==4.14.1
 tzdata==2025.2
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.5.0
 uvicorn==0.34.0
 uvloop==0.21.0
 vine==5.1.0
@@ -260,7 +260,7 @@ wcwidth==0.2.13
 weasel==0.4.1
 webencodings==0.5.1
 websockets==14.1
-Werkzeug==2.2.3
+Werkzeug==3.1.3
 wrapt==1.17.2
 yarl==1.20.0
 yfinance==0.2.48
