@@ -2,30 +2,36 @@
   anushkarg99@gmail.com | +1 9295706412 | Queens, NY
 
 Summary:
-A dedicated and resourceful Web Engineer with over 3 years of experience in the tech industry, demonstrating expertise in JavaScript (ES5+), native DOM APIs, and React as a modern front-end framework. Proficient in Ruby on Rails and familiar with other server-side frameworks such as Express or Django. Skilled in designing custom pages and components, prioritizing page speed performance, and creating responsive designs for cross-browser compatibility. Passionate about working on projects with measurable business impact and thriving in fast-paced, cross-functional environments. Adept at test-driven development, continuous integration, and automated testing. Holds a Bachelor's degree in Computer Science.
+Proactive and experienced Associate Software Developer with over three years of industry experience, demonstrating expertise in full-stack development, UX design, and Agile methodologies. Proficient in JavaScript (particularly Angular and React) and familiar with modern front-end frameworks like NextJS and TypeScript. Strong command of jQuery, HTML5, CSS3, and good knowledge of SVG and HTML canvas. Experienced in implementing and integrating web services using SOAP/REST based APIs, JSON, and XML. Possess a Bachelor's degree in Computer Science and comfortable with PHP/MySQL, having experience with popular frameworks as an added advantage. Skilled in GitHub, NodeJS, AdobeXD, Figma, Photoshop, Illustrator, and other relevant tools.
+
+PROFESSIONAL SUMMARY:
+A dedicated software developer with a knack for UX design, boasting expertise in modern JavaScript frameworks (Angular, React), RESTful API development, web services integration, and front-end technologies (HTML5, CSS3, jQuery). Possessing over three years of experience in the tech industry, I am equipped to lead the design and development of major application features. Additionally, my command of Java and J2EE is strong, with a desire to acquire certification in these areas.
 
 WORK EXPERIENCE
 Voya 02/2022 – Present
-Web Engineer
+Associate Software Developer
 •   Collaborate on server migration activities, contributing to planning, execution, and post-migration analysis to ensure seamless system transitions and minimal business disruption.
 •   Research emerging AI technologies for potential automation and efficiency gains; develop business cases and present recommendations to stakeholders.
-•   Serve as a communication bridge between technical and business teams, gathering requirements, translating them into actionable insights, and ensuring project alignment from initiation to delivery. (Added job role change)
+•   Serve as a communication bridge between technical and business teams, gathering requirements, translating them into actionable insights, and ensuring project alignment from initiation to delivery.
+•   Participate in design and development of major application features using modern JavaScript frameworks like Angular and React.
+•   Implement and integrate web services using SOAP/REST based APIs, JSON, XML, and other relevant technologies.
 
 Voya 06/2024 – 08/2024 (Internship)
 Frontend Developer Intern
-•   Designed responsive web applications using React and React Native, with a focus on optimizing page speed performance and creating custom CSS for cross-browser compatibility.
-•   Developed dashboards to monitor clients' varied financial transactions and wealth management plans, utilizing design principles for responsiveness across various screen sizes.
-•   Participated in Agile design discussions and custom component development.
-•   Collaborated across multiple teams to ensure seamless integration and deployment of new features, fostering a fast-paced, cross-functional environment. (Added focus on speed performance and cross-functional collaboration)
+•   Designed responsive web applications using the Angular framework, with a focus on React and React Native.
+•   Developed dashboards to monitor clients' varied financial transactions and wealth management plans.
+•   Participated in Agile design discussions and custom component development for major application features.
+•   Collaborated across multiple teams to ensure seamless integration and deployment of new features, including third-party service integrations.
+•   Contributed towards creating components using a long-term support (LTS) based design system for client transaction dashboard.
 
 Taiyō 01/2021 – 01/2023
 Lead Frontend Developer
-•   Spearheaded front-end development of a data analytics tool using React, achieving a 25% reduction in bug reports through enhanced cross-browser compatibility and streamlined software development phases. (Focused on React development and performance improvements)
+•   Spearheaded front-end and back-end development of a data analytics tool using Angular, achieving a 25% reduction in bug reports through enhanced cross-browser compatibility and streamlined software development phases.
 •   Established and maintained a CI/CD pipeline from Git to production, enabling rapid deployment in dynamic development settings.
-•   Partnered with the design team to revamp the system design, resulting in custom product-specific elements that boosted project completion rates by 30%. (Emphasized on design collaboration)
-•   Reviewed code, ensuring error handling and improving product quality by 30%, while maintaining robust components. (Added focus on code review and quality improvements)
-•   Gathered business requirements and developed product strategies addressing customer interests, further enhancing project success. (Highlighted the importance of business needs and project success)
-•   Developed a RESTful API for a cross-platform application, facilitating seamless data exchange and integration with third-party services, leading to a 25% reduction in bug reports. (Added focus on API development and integration with third-party services)
+•   Partnered with the design team to revamp the system design, resulting in custom product-specific elements that boosted project completion rates by 30%.
+•   Reviewed code, ensuring error handling and improving product quality by 30%, while maintaining robust components for major application features.
+•   Gathered business requirements and developed product strategies addressing customer interests, further enhancing project success.
+•   Developed a RESTful API for a cross-platform application, facilitating seamless data exchange and integration with third-party services, leading to a 25% reduction in bug reports.
 
 EDUCATION
 New York Institute of Technology, Manhattan, NY | GPA: 3.5/4.0 | 2023 – Present
@@ -38,7 +44,7 @@ Web Development: HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, Angular, TypeSc
 Programming: Python
 Database Technologies: SQL, MongoDB
 Design: AdobeXD, Figma, Adobe Photoshop, Adobe Illustrator
-Others: Docker, Git
+Others: Docker, Git, Eclipse, Jira, Bamboo, Maven, Gradle
 
 ACADEMIC PROJECTS
 Emotion Detection Using Convolutional Neural Networks
@@ -47,7 +53,7 @@ Emotion Detection Using Convolutional Neural Networks
 •   Trained CNN sequential model for detecting 7 emotions from a frontal face.
 •   Utilized OpenCV to detect and render live video through webcam, integrating model prediction seamlessly with live video feed.
 •   Optimized algorithm for a loss rate of 0.1047 and accuracy: 0.9896.
-•   Demonstrates skills in real-time application of deep learning, neural networks, and problem-solving abilities. (Preserved as it is)
+•   Demonstrates skills in real-time application of deep learning, neural networks, and problem-solving abilities.
 
 CERTIFICATON
 Machine Learning Specialization
@@ -56,14 +62,14 @@ Machine Learning Specialization
 •   Developed practical skills in building machine learning models with tools like NumPy, scikit-learn, and TensorFlow.
 •   Mastered 3 courses to earn specialization certificate. Courses included Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders, Reinforcement Learning.
 •   Developed skills in data preprocessing, feature engineering, model selection, and performance optimization.
-•   Applied machine learning algorithms to real-world scenarios, enhancing problem-solving abilities. (Preserved as it is)
+•   Applied machine learning algorithms to real-world scenarios, enhancing problem-solving abilities.
 
 Python and Django Full Stack Web Development Certification
 Udemy!
 •   Completed 32-hour online training course in Python and Django web development frameworks.
 •   Demonstrated proficiency in core Python programming concepts including data structures, functions, control flow, and object-oriented programming.
 •   Gained hands-on experience building dynamic web applications using the Django Python web framework.
-•   Learned to design database models, implement CRUD (Create, Read, Update, Delete) functionality, and integrate web templates.
+•   Learned to design database models, implement CRUD (Create, Read, Update, Delete) functionality, and integrate web templates for major application features.
 •   Developed skills in front-end web development using HTML, CSS, and JavaScript to create responsive user interfaces.
 •   Utilized Django's built-in features such as URL routing, forms handling, authentication, and admin panel.
-•   Applied software engineering best practices including version control with Git, testing, and deployment. (Preserved as it is)
+•   Applied software engineering best practices including version control with Git, testing, and deployment for major application features.
