@@ -1,0 +1,69 @@
+ Anushka Gangidi
+  anushkarg99@gmail.com | +1 9295706412 | Queens, NY
+
+Summary:
+A dedicated and resourceful Web Engineer with over 3 years of experience in the tech industry, demonstrating expertise in JavaScript (ES5+), native DOM APIs, and React as a modern front-end framework. Proficient in Ruby on Rails and familiar with other server-side frameworks such as Express or Django. Skilled in designing custom pages and components, prioritizing page speed performance, and creating responsive designs for cross-browser compatibility. Passionate about working on projects with measurable business impact and thriving in fast-paced, cross-functional environments. Adept at test-driven development, continuous integration, and automated testing. Holds a Bachelor's degree in Computer Science.
+
+WORK EXPERIENCE
+Voya 02/2022 – Present
+Web Engineer
+•   Collaborate on server migration activities, contributing to planning, execution, and post-migration analysis to ensure seamless system transitions and minimal business disruption.
+•   Research emerging AI technologies for potential automation and efficiency gains; develop business cases and present recommendations to stakeholders.
+•   Serve as a communication bridge between technical and business teams, gathering requirements, translating them into actionable insights, and ensuring project alignment from initiation to delivery. (Added job role change)
+
+Voya 06/2024 – 08/2024 (Internship)
+Frontend Developer Intern
+•   Designed responsive web applications using React and React Native, with a focus on optimizing page speed performance and creating custom CSS for cross-browser compatibility.
+•   Developed dashboards to monitor clients' varied financial transactions and wealth management plans, utilizing design principles for responsiveness across various screen sizes.
+•   Participated in Agile design discussions and custom component development.
+•   Collaborated across multiple teams to ensure seamless integration and deployment of new features, fostering a fast-paced, cross-functional environment. (Added focus on speed performance and cross-functional collaboration)
+
+Taiyō 01/2021 – 01/2023
+Lead Frontend Developer
+•   Spearheaded front-end development of a data analytics tool using React, achieving a 25% reduction in bug reports through enhanced cross-browser compatibility and streamlined software development phases. (Focused on React development and performance improvements)
+•   Established and maintained a CI/CD pipeline from Git to production, enabling rapid deployment in dynamic development settings.
+•   Partnered with the design team to revamp the system design, resulting in custom product-specific elements that boosted project completion rates by 30%. (Emphasized on design collaboration)
+•   Reviewed code, ensuring error handling and improving product quality by 30%, while maintaining robust components. (Added focus on code review and quality improvements)
+•   Gathered business requirements and developed product strategies addressing customer interests, further enhancing project success. (Highlighted the importance of business needs and project success)
+•   Developed a RESTful API for a cross-platform application, facilitating seamless data exchange and integration with third-party services, leading to a 25% reduction in bug reports. (Added focus on API development and integration with third-party services)
+
+EDUCATION
+New York Institute of Technology, Manhattan, NY | GPA: 3.5/4.0 | 2023 – Present
+MS, Computer Science
+Malla Reddy Institute of Technology, Hyd, IND | GPA: 3/4.0 | 2016 - 2020
+B.tech, Computer Science and Engineering
+
+SKILLS
+Web Development: HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, Angular, TypeScript
+Programming: Python
+Database Technologies: SQL, MongoDB
+Design: AdobeXD, Figma, Adobe Photoshop, Adobe Illustrator
+Others: Docker, Git
+
+ACADEMIC PROJECTS
+Emotion Detection Using Convolutional Neural Networks
+•   Built an emotion detection system using convolutional neural networks for precise and real-time emotion analysis.
+•   Implemented data preprocessing pipeline of 35887 image dataset and augmentation using Image Data Generator to generalize the training data.
+•   Trained CNN sequential model for detecting 7 emotions from a frontal face.
+•   Utilized OpenCV to detect and render live video through webcam, integrating model prediction seamlessly with live video feed.
+•   Optimized algorithm for a loss rate of 0.1047 and accuracy: 0.9896.
+•   Demonstrates skills in real-time application of deep learning, neural networks, and problem-solving abilities. (Preserved as it is)
+
+CERTIFICATON
+Machine Learning Specialization
+•   DeepLearning.AI, Coursera, Stanford CPD, UVM!
+•   Acquired a strong foundation in AI concepts, supervised and unsupervised learning techniques.
+•   Developed practical skills in building machine learning models with tools like NumPy, scikit-learn, and TensorFlow.
+•   Mastered 3 courses to earn specialization certificate. Courses included Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders, Reinforcement Learning.
+•   Developed skills in data preprocessing, feature engineering, model selection, and performance optimization.
+•   Applied machine learning algorithms to real-world scenarios, enhancing problem-solving abilities. (Preserved as it is)
+
+Python and Django Full Stack Web Development Certification
+Udemy!
+•   Completed 32-hour online training course in Python and Django web development frameworks.
+•   Demonstrated proficiency in core Python programming concepts including data structures, functions, control flow, and object-oriented programming.
+•   Gained hands-on experience building dynamic web applications using the Django Python web framework.
+•   Learned to design database models, implement CRUD (Create, Read, Update, Delete) functionality, and integrate web templates.
+•   Developed skills in front-end web development using HTML, CSS, and JavaScript to create responsive user interfaces.
+•   Utilized Django's built-in features such as URL routing, forms handling, authentication, and admin panel.
+•   Applied software engineering best practices including version control with Git, testing, and deployment. (Preserved as it is)

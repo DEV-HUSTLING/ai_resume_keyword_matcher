@@ -1,0 +1,16 @@
+Degree in Data Science, Finance, Math, Engineering, Computer Science, Economics, Business or other quantitative fields
+1 - 3 years of experience in a data analytical role
+Expertise and experience in Python and manipulation of data to answer questions
+Experience with BI tools, SQL queries, and organizing and analyzing data
+
+Responsibilities
+Partner with team members, engineering, product and business leaders to understand current user behavior and patterns across our platform
+Develop KPIs, create project plan, implement Pipelines and design user interfaces to understand delivery and adoption of new products and capabilities
+Monitor pipelines for stability, suggest and enact efficiency initiatives measures
+Own projects end-to-end while communicating with stakeholders about milestones and performance
+Create engineering awareness and drive behavior change in the product organization in line with the team’s mission and goals
+Use Palantir’s platform to create data analysis and supporting visualizations
+Use Palantir’s platform to create custom applications and executive dashboards
+Articulate feedback from real-world use for Palantir’s software engineering teams to help improve Palantir’s overall offerings
+Become an expert on foundational data that underpins Palantir’s software development and internal operations
+Respond to strategic, tactical, and analytical questions from within Palantir about data and operations
