@@ -10,7 +10,7 @@ HUGGING_FACE_TOKEN = os.getenv("HUGGING_FACE_TOKEN")
 API_URL = "https://router.huggingface.co/v1/chat/completions"
 
 headers = {
-    "Authorization": f"Bearer{HUGGING_FACE_TOKEN}",  # Replace with your token
+    "Authorization": f"Bearer {HUGGING_FACE_TOKEN}",  # Replace with your token
     "Content-Type": "application/json"
 }
 
