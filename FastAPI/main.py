@@ -12,7 +12,6 @@ from ai.processing import refine_resume
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    # allow_origins=["http://192.168.1.159:3000"],  # or ["*"] for local testing
     allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
@@ -32,12 +31,7 @@ async def resume_upload( text: str = Form(...) , file: UploadFile = File(...)):
         save_path = UPLOAD_DIR / f"{base_name}.txt"
         # missing_kw = get_missing_keywords(text, encoded_contents)
         refined = refine_resume(encoded_contents, text)
-        with open(save_path, "w") as f:
-            f.write(refined)
-        return FileResponse(
-           path=save_path,
-           filename=f"{base_name}.txt",
-           media_type='text/plain'
-        )
+
+        return refined["choices"][0]["message"]
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to save file: {e}")
