@@ -18,7 +18,7 @@ export default function Home() {
     formData.append("text", jobDescription);
 
     try {
-      const response = await axios.post("http://192.168.1.159:8000/resume_upload", formData, {
+      const response = await axios.post("https://ai-resume-keyword-matcher.onrender.com/resume_upload", formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
@@ -88,7 +88,7 @@ export default function Home() {
             <button onClick={submit_data}>Submit</button>
         </div>
         <div className="result_space">
-            {response?<div dangerouslySetInnerHTML={{ __html: response.replace(/\n/g, '<br/>') }} />:<p><i>Updated Resume</i></p>}
+            {response?.choices?.[0]?.message?.content ?<div dangerouslySetInnerHTML={{ __html: response?.choices[0].message.content.replace(/\n/g, '<br/>') }} />:<p><i>Updated Resume</i></p>}
         </div>
       </main>
     </div>
