@@ -32,6 +32,6 @@ async def resume_upload( text: str = Form(...) , file: UploadFile = File(...)):
         # missing_kw = get_missing_keywords(text, encoded_contents)
         refined = refine_resume(encoded_contents, text)
 
-        return refined["choices"][0]["message"]
+        return refined
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to save file: {e}")
